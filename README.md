@@ -6,5 +6,8 @@
     - panda
     - matplotlib
 - ### [Computer Vision](02_computer_vision/OpenCV)
+  - 이미지 데이터를 다루는 방법을 학습
 - ### [ML](03_machine_learning)
+  - ML의 개념부터 학습, 평가, 활용까지 학습
 - ### [DL](04_deep_learning_basic)
+  - DL의 개념부터 모델 생성, 학습, 평가, 활용까지 학습
